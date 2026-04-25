@@ -1,0 +1,11 @@
+# Ambientes Python
+__pycache__/
+*.pyc
+.env
+
+# Modelos treinados
+models/
+
+# Arquivos temporarios
+*.log
+*.tmp

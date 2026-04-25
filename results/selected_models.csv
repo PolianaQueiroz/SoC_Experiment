@@ -1,0 +1,6 @@
+Dataset,NM Selecionado,CM Selecionado
+CALCE,DTR,SVR
+OX,MLP,DTR
+UL-PUR,SVR,SVR
+SNL,SVR,Summation
+HNEI,MLP,Summation

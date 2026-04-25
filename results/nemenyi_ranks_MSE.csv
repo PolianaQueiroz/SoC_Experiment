@@ -1,0 +1,9 @@
+Modelo,Rank medio
+ARIMA+SVR,1.6
+ARIMA,2.5
+ARIMA+MLP,2.5
+Proposto,4.2
+"SVR(ARIMA,SVR)",4.6
+SVR,6.0
+MLP,6.6
+DTR,8.0
